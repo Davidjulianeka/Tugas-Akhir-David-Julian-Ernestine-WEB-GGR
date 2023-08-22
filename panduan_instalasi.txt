@@ -1,5 +1,5 @@
-- pastikan php anda menggunakan versi php 8.1
-- pastikan composer anda terupdate ke versi yang terbaru.
+- pastikan php menggunakan versi php 8.1
+- pastikan composer terupdate ke versi yang terbaru.
 - di php harap tambahkan extension instalasi grpc (file ada di folder dll_tambahan).
 - jangan lupa untuk mengaktifkan grpc di php.ini
 . jika sudah di aktifkan restart xampp
